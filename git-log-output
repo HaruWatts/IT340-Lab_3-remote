@@ -1,0 +1,31 @@
+commit 72974ed14f18ada0a518e862dc217121a8ff6b7f
+Author: HaruWatts <hdw@njit.edu>
+Date:   Fri Feb 13 16:34:01 2026 -0500
+
+    Revert "added new file newfile.txt"
+    
+    This reverts commit 93b0ed6bdd31adfdfe48d79207629a1bfda93b3a.
+
+commit 93b0ed6bdd31adfdfe48d79207629a1bfda93b3a
+Author: HaruWatts <hdw@njit.edu>
+Date:   Fri Feb 13 16:33:11 2026 -0500
+
+    added new file newfile.txt
+
+commit 4c1baf5bc6674d4353eea8714358fffb5eb4bf9b
+Author: HaruWatts <hdw@njit.edu>
+Date:   Fri Feb 13 16:31:49 2026 -0500
+
+    Added test text to hostname
+
+commit 9ec816885b63f741076c5b8bdfb23723583ff679
+Author: Haru Watts <hdw@njit.edu>
+Date:   Thu Feb 12 19:48:20 2026 -0500
+
+    added test text to os-release
+
+commit 47b28392f56acb360b4d26be3649b8e42cb32926
+Author: Haru Watts <hdw@njit.edu>
+Date:   Thu Feb 12 19:43:23 2026 -0500
+
+    Initial commit
